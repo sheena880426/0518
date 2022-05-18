@@ -1,0 +1,78 @@
+@charset "UTF-8";
+.p3   {
+    height: 350px;
+    background-size: cover;
+    background-image: url(photos%20for%20BS%201/EADF27BA-B035-401F-829D-A97A9F7BF8FF.JPG);
+    margin: 5px;
+    background-position: center center;
+}
+.p4 {
+    height: 610px;
+    background-image: url(photos%20for%20BS%201/IMG_2990.JPG);
+    background-position: center center;
+    background-size: cover;
+	margin: 5px;
+}
+.p5 {
+    background-image: url(photos%20for%20BS%201/IMG_4330.JPG);
+    height: 250px;
+    background-position: center center;
+    background-size: cover;
+	margin: 5px;
+}
+.p6 {
+    height: 350px;
+    display: flex;
+    background-image: url(photos%20for%20BS%201/IMG_7745.JPG);
+    background-position: center center;
+    background-size: cover;
+    flex: 1;
+	margin: 5px;
+}
+.box1 {
+    display: flex;
+}
+.p1 {
+    height: 350px;
+    background-image: url(photos%20for%20BS%201/IMG_3145.jpg);
+    background-position: center center;
+    margin: 5px;
+    background-size: cover;
+}
+.p2 {
+    height: 350px;
+    background-image: url(photos%20for%20BS%201/IMG_2617.JPG);
+    background-position: center center;
+    background-size: cover;
+	margin: 5px;
+}
+.p7 {
+    flex: 1;
+    height: 350px;
+    background-position: center center;
+    background-size: cover;
+    background-image: url(photos%20for%20BS%201/IMG_6113.jpg);
+	margin: 5px;
+}
+.p8 {
+    height: 450px;
+    background-image: url(photos%20for%20BS%201/IMG_5174.JPG);
+    background-position: center -320px;
+    margin: 5px;
+    background-size: cover;
+}
+.p9 {
+    background-image: url(photos%20for%20BS%201/IMG_4137.JPG);
+    height: 450px;
+    margin: 5px;
+    background-size: cover;
+    background-position: center center;
+}
+.container-fluid.bg-secondary {
+    height: 140px;
+    text-align: center;
+    font-size: 65px;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-weight: bolder;
+    line-height: 140px;
+}
